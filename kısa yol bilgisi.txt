@@ -5,5 +5,7 @@ Acaba VS de tüm satırları # yapmak için kısa yol var mı?
 E2139-hasanAk  16 minutes ago
 ctrl + k +c   tuşlarına aynı anda basarsanız olur
 
+ctrl + ö
+
 E2139-hasanAk  15 minutes ago
 geri açmak içinde ctrl + k + u ile tekrar normal hale getirebilirsiniz
