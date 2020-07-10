@@ -1,5 +1,5 @@
- # age =  can be assigned only True/False
-# chvronic =  can be assigned only True/False
+# age =  can be assigned only True/False
+# chronic =  can be assigned only True/False
 # immune =  can be assigned only True/False
 # risk = ?
 
